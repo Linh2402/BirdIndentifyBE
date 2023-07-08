@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "adept-parsec-386005",
+  "private_key_id": "367f6742a5fe4b154c9539f75c777d4bfa4ac392",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDWn/vzgQKG0Smd\nbP3CAZxQemUEewYxiKtV7tCCZBcZkZBOZ4R+3HR6n2KmfQdEvFhRZ0O8HiH/Q5TO\nQajS+Fu7hCEDfrNWZzQrcknjsxsWLM/RQY+ouvYqsNYbU/sXS+4bZf0PWedMFTfw\nJAGiIkY6EZABV0fwf+zZI8vQv/3DtdZ9TDBbmFow4XDFFjqk5zpCOjCiqlRClZ8W\niOYZ4hB8kKfpURbqfj7TwNWvUVgPbU5gQWKxs8YjW6UfO+KOc7iw+hHOpTZL4Cf1\nV9AaXVbfGp7Z1tV8+kmuEEXXzQW7jy4IEnlLHBxT3Evjkx1SaK4aMS3kqC1KbVbE\nOkCZLwaNAgMBAAECgf8MAX4GKuxlkR/Mq1X8wqQmhwD+zEv/RNci0105Dt0A3KOv\nVhSGMiQqg1bw+UIChekipJpQD7taaA42Z8s0hUcSiE5XB8/L4XA0U03ihd1w5q5d\neSlLMAlgr08wjX7QTs46zdJW2ERP0pFEpd/NadU1FQgQK/XW96ziXmm811x4Nuua\nZlgto2J1QMymxMAzI+Mb//wvT3YFqE641pjWa1gIRMgkMDJxY9uLMfojuoGqYylK\n2506NNU/8/A7qdV/IcAZ+B1E/HYcUQRQkRAQFfo0b23nFAFsRrrLARxiSuUwqxbV\nmjRTtzYjuxBKzTJZkOM5I2b00dQLglT3Cg03VqECgYEA884ofogmrMwNqrNKwlHB\nsWlVKM0kvhV9cEE6jqaBP8C5NbIHGWXI/MebnONx0kG7R7+lnAPsKaCfD8tH9bdX\n8DNHCJSOyUVkm2sm0O9w8gpmavhNtu8jgci74AUBschoJUwuyJhVZ0uSAdT7+0Kh\n1tA24REzS1Y3sJIeLQ05ABECgYEA4VwufKJ6ozGMeopG6lZ4jN2p0Pb4x+yjXXMh\nN+NjEnVNl1kOT74NKgU+D0mvww4pFqpZm3GA3BcuGl6CMmb16BLenr5dPiVEyXMn\numOgRfdEtm9EoSuFq9e////WJmwr5WQf9cy6VJywikcWh6JYBl++/eYuP1xqgCfO\nxd7UWr0CgYEA8QH9s79BhBWe+PyNzXPmZkt63H+Wb7Vsr9g7W6KrJ+uK6tKXA/tD\naOalJL0N2kwSJ0YDHywde7UFKCbKdtMMQi1ebdP1Jm/LmXud/nKEEzBGuD3HDSxu\nzDAz0KsCVs2GbkBWCwPTgO4KYnc5tNLUizZ+2ZQYQcPz/z8iR2TH0RECgYEAzhGz\ntGYCTC2nrfm5RNjTHMQoXxsme/HHpFD9ZBR56Ev5KlbVvlcjxHPMvr/7hxnwungE\nvh343cgYcSZQWXRKke6HQJMDwirkDm1NO6OTz8Z+P2/ZSqL4dR0wxQ8UrEenj/eR\nPfr5uxsYVykP0fDCGvn8NEEBsxB3lj5QViEe/uUCgYEAypEE8srR3TaXTindps18\ny0uLH961zhj5sjzKo5+4QnRLCCXSSUZGhOHvXGqnCYLNgqAeb8NYj9GWlzaVyr5P\n2Roo1GOvnnndwRP3u48pelx2wR4hEvusAKr5qwRb7Cv9cZ9xazuUSw2O2/jx59RH\nEWJ73pApo2VZzib1OsggKWA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gcs-access-sa@adept-parsec-386005.iam.gserviceaccount.com",
+  "client_id": "101538597195837934994",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gcs-access-sa%40adept-parsec-386005.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
