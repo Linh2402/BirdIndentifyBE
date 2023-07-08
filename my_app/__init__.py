@@ -38,7 +38,7 @@ def create_app():
         response.headers[
             "Access-Control-Allow-Headers"
         ] = "Origin, X-Requested-With, Content-Type, Accept, Authorization"
-        response.headers["Access-Control-Allow-Methods"] = "GET, POST, OPTIONS"
+        response.headers["Access-Control-Allow-Methods"] = "GET, POST, OPTIONS, PUT, DELETE"
         return response
 
     return app
