@@ -58,7 +58,7 @@ def predict():
         pass
 
     if user_id is not None:
-        file_url = upload_image_to_gcs(image)
+        file_url = upload_image_to_gcs(file)
         history = History(date=date.today(), user_id=user_id, url=file_url)
         db.session.add(history)
         db.session.commit()
